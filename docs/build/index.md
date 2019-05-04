@@ -95,7 +95,7 @@ Ethereum has a large and growing number of tools to help developers build, test,
 - [Ethereum Developer Tools List #Frontend-Ethereum-APIs](https://github.com/ConsenSys/ethereum-developer-tools-list#frontend-ethereum-apis)
 
 ## Other APIs
-### Web3j *web3j is a highly modular, reactive, typesafe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network*
+### Web3j *web3j is a typesafe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network*
 - [Github](https://github.com/web3j/web3j/)
 - [Documentation](https://docs.web3j.io/)
 
